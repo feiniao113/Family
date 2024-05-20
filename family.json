@@ -80,7 +80,7 @@
  "图片":"data-original=\"&&\"",   
 "链接": "href=\"&&\"",
 "标题": "title=\"&&\"",
-"jar": "./XBPQ.jar",
+"jar":"./XBPQ.jar", 
 "副标题": "module-item-note\">&&</div>",
 "数组":"</div></a>&&</div></a>",
 "线路数组":"module-tab-item tab-item\"&&</div>",
