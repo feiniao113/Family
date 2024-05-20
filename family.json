@@ -83,7 +83,8 @@
 		},
 		
 {"key":"看了么","jar": "./XBPQ.jar","name":"看么┃影视","type":3,"api":"csp_XBPQ","ext":{"简介":"资源仅供测试交流,不得商用!请勿相信影片中的广告，以免上当受骗!+vod_content\">&&</div>","播放数组":"play_li&&</div>","线路数组":"player_info\">&&</div>","线路标题":"<h2&&</h2>","分类url":"https://www.ksksl.com/show/{cateId}/area/{area}/class/{class}/page/{catePg}.html;;mak","分类":"电影$dy#电视剧$tv#综艺$zy#动漫$dm"}},
-              
+                    {"key": "茶杯影视","name": "茶杯┃影视","type": 3,"jar":"./XBPQ.jar",  
+		      "api": "csp_XBPQ","ext": {"简介":"小林子为您剧情介绍: +本剧主要讲述&&</div>","标题":"title=*>&&</div>","分类url": "https://hoodlumsmusic.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},
            {"key": "绝对影视","name":"绝对┃影视","jar":"./XBPQ.jar",  "type": 3,"api": "csp_XBPQ","ext": { "线路数组": "<div class=\"ypxingq_t\">&&</div>","线路标题": "<span>&&</span>", "播放数组": "<div class=\"paly_list_btn\">&&</div>","播放列表": "<a&&</a>","播放标题": ">&&</a>","播放链接": "href=\"&&\"","分类url": "https://www.jdys.art/{cateId}/page/{catePg}/[https://www.jdys.art/{cateId}/]","分类": "电视剧$tv-series#电影$movies#高分经典$classic#综艺$variety-show"}}
 		
 		
